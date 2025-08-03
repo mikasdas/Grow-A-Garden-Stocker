@@ -145,7 +145,7 @@ GAG_important_items75921
 - 🌦️ Weather alert system  
 - 🤖 Discord bot integration  
 
-Have ideas or found bugs? [Open an issue](https://github.com/mikasdas/GAG-Stock-Notifyer/issues) or contact me!
+Have ideas or found bugs? [Open an issue](https://github.com/mikasdas/Grow-A-Garden-Stocker/issues) or contact me!
 
 
 ## 📜 License
@@ -219,4 +219,5 @@ MIT – do whatever you want, just keep attribution.
 - Bug Egg
 
 </details>
+
 
